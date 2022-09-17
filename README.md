@@ -3,11 +3,11 @@
 En este repositorio se encuentra una solución colaborativa a la competencia de Kaggle [Titanic - Machine Learning from Disaster](#https://www.kaggle.com/c/titanic)
 
 **Equipo**<br>
-Ángel Corrales<br>
-Aralí Mata<br>
-Daniel Cázares<br>
-Izael Rascón<br>
-Yolanda Elizondo
+Daniel Salvador Cázares García - A01197517<br>
+Yoceline Aralí Mata Ledezma - A01562116<br>
+Izael Manuel Rascón Durán - A01562240<br>
+Angel Corrales Sotelo - A01562052<br>
+Yolanda Elizondo Chapa - A01137848
 
 ## Contenido
 <!-- no toc -->
