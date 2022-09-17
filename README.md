@@ -42,3 +42,7 @@ ticket | Numero de ticket | `String` <br> Categórica Nominal
 fare | Tarifa | `Float` <br> Númerica Continua
 cabin | Número de cabina | `String` <br> Categórica Nominal
 embarked | Puerto de embarque <br> (C = Cherbourg, Q = Queenstown, S = Southampton) | `String` <br> Categórica Nominal
+
+## Correcciones
+* Se estandarizaron todos los datos (se observó un incremento en la exactitud/accuracy)
+* Se cambió la forma en que se trataron los datos faltantes de la variable edad (se cambió de completarlos con promedio/mediana a hacerlo con base en sexo, título y clase)
