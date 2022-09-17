@@ -2,7 +2,7 @@
 
 En este repositorio se encuentra una solución colaborativa a la competencia de Kaggle [Titanic - Machine Learning from Disaster](#https://www.kaggle.com/c/titanic)
 
-**Equipo**
+**Equipo**<br>
 Ángel Corrales<br>
 Aralí Mata<br>
 Daniel Cázares<br>
