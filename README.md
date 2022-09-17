@@ -3,10 +3,10 @@
 En este repositorio se encuentra una solución colaborativa a la competencia de Kaggle [Titanic - Machine Learning from Disaster](#https://www.kaggle.com/c/titanic)
 
 **Equipo**
-Ángel Corrales
-Aralí Mata
-Daniel Cázares
-Izael Rascón
+Ángel Corrales<br>
+Aralí Mata<br>
+Daniel Cázares<br>
+Izael Rascón<br>
 Yolanda Elizondo
 
 ## Contenido
@@ -25,8 +25,8 @@ Aunque uno podría pensar que hubo cierto grado de suerte en la supervivencia,  
 ## Dataset
 
 Los datos se dividen en dos grupos:
-* Entrenamiento ([train.csv](#train.csv))
-* Prueba ([test.csv](#test.csv))
+* Entrenamiento (`train.csv`)
+* Prueba (`test.csv`)
 
 **Diccionario**
 
